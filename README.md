@@ -17,6 +17,7 @@ T_{fs}!= T_{cs}
 direction are small compared with those in the radial direction
 therefore the primary heat flux takes place in the radial direction
 
+<img src = "ROD.png">
 
 -Finally, Rod temperature -
 <a href="https://www.codecogs.com/eqnedit.php?latex=T_{s}&space;=&space;T_{m}&space;-&space;\frac{Q}{4m}\left[\frac{1}{k_{f}}&plus;\frac{2}{h*R_{f}}&plus;\frac{&space;\left(1&plus;b/R_{f}&space;\right&space;)^{2}-1}{k_{c}}\right]" target="_blank"><img src="https://latex.codecogs.com/png.latex?T_{s}&space;=&space;T_{m}&space;-&space;\frac{Q}{4m}\left[\frac{1}{k_{f}}&plus;\frac{2}{h*R_{f}}&plus;\frac{&space;\left(1&plus;b/R_{f}&space;\right&space;)^{2}-1}{k_{c}}\right]" title="T_{s} = T_{m} - \frac{Q}{4m}\left[\frac{1}{k_{f}}+\frac{2}{h*R_{f}}+\frac{ \left(1+b/R_{f} \right )^{2}-1}{k_{c}}\right]" /></a>
